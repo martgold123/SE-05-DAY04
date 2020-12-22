@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316438833816",
+    "firebase_url": "https://seday04-158cf-default-rtdb.firebaseio.com",
+    "project_id": "seday04-158cf",
+    "storage_bucket": "seday04-158cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316438833816:android:adee3ed4dae96eb8dabeed",
+        "android_client_info": {
+          "package_name": "viet.oop.seday04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316438833816-e63tspfqr2549uuvmbsght8oeogquj7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "viet.oop.seday04",
+            "certificate_hash": "b72a9168a6eb2a79f198b30632160aecac71bbcb"
+          }
+        },
+        {
+          "client_id": "316438833816-5t7g8oskhj0htt77vkf91fnhd6gcsqim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOC4kpjyFeeCcafjqEVTtRMAWNJy9XLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316438833816-5t7g8oskhj0htt77vkf91fnhd6gcsqim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
